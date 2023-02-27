@@ -8,3 +8,4 @@ Seguem os Links para acessar como o protótipo foi feito: https://www.figma.com/
                              e como ele seria visto pelo usuário enquanto este navega pelo protótipo: https://www.figma.com/proto/7J4fKaU3wNqmf2spahvGvP/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
                              
 Design System: https://www.figma.com/file/bXAhSu33Q5z6pINNb6zlAC/Untitled?node-id=0%3A1&t=A0clSnBhF9bmEzu9-0
+Protótipo Navegável: https://www.figma.com/proto/6eq1Mkvz3Q9P4D7vyEBRCP/Untitled?node-id=49%3A16&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=49%3A16
