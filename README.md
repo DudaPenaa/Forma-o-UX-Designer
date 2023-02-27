@@ -6,3 +6,5 @@ Pode-se perceber que a página possui alguns textos repetidos, mas o foco é rep
 
 Seguem os Links para acessar como o protótipo foi feito: https://www.figma.com/file/7J4fKaU3wNqmf2spahvGvP/Untitled?node-id=0%3A1&t=k0tl22iDznFuk2WV-1
                              e como ele seria visto pelo usuário enquanto este navega pelo protótipo: https://www.figma.com/proto/7J4fKaU3wNqmf2spahvGvP/Untitled?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
+                             
+Design System: https://www.figma.com/file/bXAhSu33Q5z6pINNb6zlAC/Untitled?node-id=0%3A1&t=A0clSnBhF9bmEzu9-0
